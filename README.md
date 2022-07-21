@@ -1,2 +1,2 @@
-# ThunderPhysics
+# BoltPhysics
 A physics engine
